@@ -1,5 +1,5 @@
 # 💫 About Me:
-I have completed my BCA from Sachchidanand Sinha College in 2024 currently i am pursuing MCA. I'm so interested in learning programming languages and i am quiteProgramming Languages: C, C++<br> Web Technologies: HTML, CSS, JavaScript, React.js, Bootstrap, Node.js, Express.js,<br> Databases & Tools: MySQL, MongoDB, GitHub<br> Development Platforms: Visual Studio Code<br> Soft Skills: Teamwork, Problem-Solving, Communication
+I have completed my BCA from Sachchidanand Sinha College in 2024 currently i am pursuing MCA. I'm so interested in learning programming languages and i am quiteProgramming Languages: C, C++<br> Web Technologies: HTML, CSS, JavaScript, React.js, Bootstrap, Node.js, Express.js,<br> Databases & Tools: MySQL, MongoDB, GitHub<br> Development Platforms: Visual Studio Code<br> Soft Skills: Teamwork, Problem-Solving, Communication
 
 
 ## 🌐 Socials:
